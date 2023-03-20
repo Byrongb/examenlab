@@ -1,0 +1,75 @@
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .container{
+        align-content: center;
+        justify-content: center;
+        display: grid;
+        height: 100vh;
+        flex-direction: column;
+         
+     }
+     
+     
+     .t1{
+         align-content: center;
+         justify-content: center;
+         display: grid;
+     }
+     
+     .btn {
+         border: 0.3rem solid rgba(100, 100, 100, 0.1);
+         margin-bottom: 2rem;
+         padding: 2rem;
+         width: 30rem;
+         vertical-align: middle;
+         background-color: white;
+        
+     }
+     
+     .bt1 {
+         border: none;
+         cursor: pointer;
+         
+         
+     }
+     
+     .bt2 {
+         border: none;
+         cursor: pointer;
+     }
+     
+     
+     .bt3 {
+         border: none;
+         cursor: pointer;
+     }
+     
+     
+     .bt4 {
+         margin-left: 10rem;
+         cursor: pointer;
+         width: 10rem;
+         height: 1rem;
+         text-align: center;
+         
+     }
+     
+     .bt5 {
+         cursor: pointer;
+         margin-left: 10rem;
+         width: 10rem;
+         height: 1rem;
+         text-align: center;   
+     }
+
+    
+     
+    
+
+
+
+

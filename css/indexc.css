@@ -1,0 +1,31 @@
+
+.c{
+    margin-bottom: 4rem;
+    padding: 2rem;
+}
+
+.c1{
+    width: 23rem;
+    height: 2rem;
+    background-color: red;
+    border-radius: 10px;
+}
+.c2{
+    width: 23rem;
+    height: 20rem;
+    background-color: red;
+    border-radius: 10px;
+}
+.c3{
+    width: 23rem;
+    height: 35rem;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.c4{
+    width: 23rem;
+    height: 2rem;
+    background-color: red;
+    border-radius: 10px;
+}
