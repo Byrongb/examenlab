@@ -1,6 +1,6 @@
 
 .c{
-    margin-bottom: 4rem;
+    margin-bottom: 2rem;
     padding: 2rem;
 }
 
@@ -12,20 +12,34 @@
 }
 .c2{
     width: 23rem;
-    height: 20rem;
+    height: 0.5rem;
     background-color: red;
     border-radius: 10px;
 }
 .c3{
     width: 23rem;
-    height: 35rem;
+    height: 0.5rem;
     background-color: red;
     border-radius: 10px;
 }
 
 .c4{
     width: 23rem;
-    height: 2rem;
+    height: 0.5rem;
     background-color: red;
     border-radius: 10px;
+}
+
+
+.c5 {
+    width: 23rem;
+    height: 10rem;
+    background-color: red;
+    border-radius: 10px;
+    margin-top: 4rem;
+}
+
+.bt1{
+    width: 23rem;
+    height: 2rem;
 }

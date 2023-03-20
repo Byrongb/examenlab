@@ -4,40 +4,36 @@
     padding: 2rem;
 }
 
-.t2 {
-    text-align: center;
-}
 .c1{
     width: 23rem;
-    height: 7rem;
+    height: 2rem;
     background-color: red;
     border-radius: 10px;
-    margin-top: auto;
 }
 .c2{
-    width: 23rem;
-    height: 15rem;
+    width: 5rem;
+    height: 5rem;
     background-color: red;
-    border-radius: 10px;
+    border-radius: 50%;
 }
 .c3{
-    width: 23rem;
-    height: 15rem;
+    width: 5rem;
+    height: 5rem;
     background-color: red;
-    border-radius: 10px;
+   
+    border-radius: 50%;
 }
 
 .c4{
     width: 23rem;
-    height: 15rem;
+    height: 2rem;
     background-color: red;
     border-radius: 10px;
-}
-.c5{
-    width: 23rem;
-    height: 9rem;
-    background-color: red;
-    border-radius: 10px;
-    
 }
 
+.c5 {
+    width: 23rem;
+    height: 2rem;
+    background-color: red;
+    border-radius: 10px;
+}
