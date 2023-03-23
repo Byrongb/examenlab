@@ -43,3 +43,24 @@
     width: 23rem;
     height: 2rem;
 }
+
+.menu {
+    display: none;
+}
+
+.mostrar {
+    display: block ;
+}
+
+
+.footer {
+    display: none;
+}
+
+.mostrarf {
+    display: block ;
+}
+
+.btn3{
+    font-size: 2rem;
+}
